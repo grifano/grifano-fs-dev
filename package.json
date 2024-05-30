@@ -15,6 +15,7 @@
   "author": "Serhii Orlenko <contact@grifano.com>",
   "license": "ISC",
   "dependencies": {
+    "@splidejs/splide": "^4.1.4",
     "gsap": "^3.12.5",
     "normalize.css": "^8.0.1",
     "split-type": "^0.3.4",
