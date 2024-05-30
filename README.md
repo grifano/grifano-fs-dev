@@ -1,4 +1,4 @@
-![](/img/Banner.jpg)
+![](/assets/Banner.jpg)
 
 # Hi 👋 there!
 
