@@ -1,21 +1,20 @@
 {
-  "name": "vanilla-app-template",
+  "name": "Grifano FullStack Developer Portfolio",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/7-project/",
+    "build": "vite build --base=/grifano-fs-dev/",
     "preview": "vite preview"
   },
   "devDependencies": {
     "glob": "^8.1.0",
     "vite": "^4.5.2"
   },
-  "author": "Alexander Repeta <alexander.repeta@gmail.com>",
+  "author": "Serhii Orlenko <contact@grifano.com>",
   "license": "ISC",
   "dependencies": {
-    "@splidejs/splide": "^4.1.4",
     "gsap": "^3.12.5",
     "normalize.css": "^8.0.1",
     "split-type": "^0.3.4",
