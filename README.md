@@ -1,20 +1,27 @@
-![](/src/img/seven-project.svg)
+![](/img/Banner.jpg)
 
-### Hi 👋 we are 7-Project Team
+# Hi 👋 there!
 
-- Mentor: Daria Lyman
-- Team Lead: Serhii Orlenko
-- Scram Master: Vlad Halytskyi
-- Developers:
-  - Anastasiia Velieva
-  - Andrii Chuchak
-  - Andrii Thorenko
-  - Anton Yashchenko
-  - Igor Krasin
-  - Oksana Fedorii
+So glad you've dropped by my coding corner. Here, it's all about web design,
+coding magic.
 
-## Latest Project: YachtJet
+Between coding sessions, I'm probably out cycling 🚴‍♂️ or having fun annoying my
+kids (they secretly love it 😁).
 
-[🔗 Design Mockup in Figma](https://www.figma.com/file/jRIYQopKXrN9adYQy22ygf/YachtJet?type=design&node-id=8101-272&mode=design&t=PQba5xm7EXm6ooq2-0)
+Dive 👀 into my projects, see what sparks joy, and let's chat 💬 about anything
+from tech to the best cycling routes.
 
-![](/src/img/project-cover.webp)
+### Tech Stack:
+
+- HTML5;
+- CSS3;
+- JavaScript ES7
+- Vite
+- Git & GitHub
+
+## Find Me On:
+
+- Website - [Serhii "Grifano" Orlenko](https://www.grifano.com)
+- Frontend Mentor -
+  [Web Development](https://www.frontendmentor.io/profile/grifano)
+- LinkedIn - [Serhii Orlenko](https://www.linkedin.com/in/grifano/)
